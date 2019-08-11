@@ -1,6 +1,6 @@
 # Search Image
 
- - This is basic React application that search images by typed word in search bar.
+ - This is a basic React application that find images by typed word in search bar.
  
 # Application information
  - This application is limited for searching images
